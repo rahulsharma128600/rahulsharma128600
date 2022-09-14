@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am pritam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul</h1>
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java, React, MySql, .Net**
 
-<!-- - 📫 How to reach me **kadampritam17@gmail.com** -->
+<!-- - 📫 How to reach me **rahulsharma128600@gmail.com** -->
 
-- 🎉 Let's connect [here](https://www.linkedin.com/in/kadampritam/).
+- 🎉 Let's connect [here](www.linkedin.com/in/rahulsharma128600).
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
@@ -35,15 +35,15 @@
 
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/kadampritam17)
+![Profile views](https://gpvc.arturio.dev/rahulsharma128600)
 
 <br />
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kadampritam17&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadampritam17&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulsharma128600&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsharma128600&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
 
 <hr>
@@ -53,8 +53,8 @@
 <details>
   <summary>🔥 GitHub Streak</summary>
   <br/>
-   <a href="https://github.com/kadampritam17/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pritam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kadampritam17&theme=jolly&hide_border=true"/>
+   <a href="https://github.com/rahulsharma128600/github-readme-streak-stats">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsharma128600&theme=jolly&hide_border=true"/>
   </a>
   <br/>
 </details>
@@ -62,11 +62,11 @@
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="pritam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kadampritam17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/rahulsharma128600/github-readme-activity-graph"><img alt="rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulsharma128600&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <!--
-**kadampritam17/kadampritam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rahulsharma128600/rahulsharma128600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
