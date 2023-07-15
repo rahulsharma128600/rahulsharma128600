@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rahul</h1>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working on **Dotnet, Angular**
 
-- 💬 Ask me about **Java, React, MySql, .Net**
+- 💬 Ask me about **Java, Springboot, React, MySql, .Net, Angular, Sql Server**
 
 <!-- - 📫 How to reach me **rahulsharma128600@gmail.com** -->
 
