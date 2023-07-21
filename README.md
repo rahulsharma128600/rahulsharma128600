@@ -6,7 +6,7 @@
 
 <!-- - 📫 How to reach me **rahulsharma128600@gmail.com** -->
 
-- 🎉 Let's connect [here](www.linkedin.com/in/rahulsharma128600/).
+- 🎉 Let's connect [here]([www.linkedin.com/in/rahulsharma128600/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPhiIibOmQguvSPihGfyz5Q%3D%3D)).
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
